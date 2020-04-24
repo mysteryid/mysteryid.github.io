@@ -12,10 +12,10 @@
                         <img src="Farhan.png">
                     </div>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="interest.html">My Interest</a></li>
-                        <li><a href="project.html">Project</a></li>
-                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="interest.php">My Interest</a></li>
+                        <li><a href="project.php">Project</a></li>
+                        <li><a href="gallery.php">Gallery</a></li>
                         <li class="active"><a href="#">Contact me</a></li>
                     </ul>
                     <article class="quote">
